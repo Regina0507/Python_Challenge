@@ -1,0 +1,28 @@
+Questions 1
+Ans
+oooo needs some work will run because 2 multiplied by 5 is equal to 10. (10=10, 10 is not greater than 10)
+
+
+Questions2
+Ans
+The length of Dog is 3 and 3 < 5 which satisfy the condition given so "Question 2 works!" will run.
+
+
+Question 3
+Ans
+ Since 2^3 is 8 and is greater than 5 and also 5^2 is 25 which is also <26 it makes the statement true therefore "GOT QUESTION 3!" will print.
+
+
+Question 4
+Ans
+Dan is a member of the group 3 ,which is true for the statement "Dan is in group three" to print
+
+
+Question 5
+Ans
+considering the condition
+height = 66
+age = 16
+adult_permission = True
+
+ ((height > 50) and (age >= 18)) or ((adult_permission) and (height > 50)) therefore "Can ride bumper cars" will print
